@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.exe
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.deps.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.runtimeconfig.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.sourcelink.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\refint\DiagonalNegativos.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\ref\DiagonalNegativos.dll

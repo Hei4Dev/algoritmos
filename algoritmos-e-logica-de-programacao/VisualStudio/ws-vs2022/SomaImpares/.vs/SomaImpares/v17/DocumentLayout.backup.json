@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\VisualStudio\\ws-vs2022\\SomaImpares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC401AD-7341-4838-A4C3-999956B9B795}|SomaImpares\\SomaImpares.csproj|c:\\users\\user\\documents\\estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\visualstudio\\ws-vs2022\\somaimpares\\somaimpares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC401AD-7341-4838-A4C3-999956B9B795}|SomaImpares\\SomaImpares.csproj|solutionrelative:somaimpares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\VisualStudio\\ws-vs2022\\SomaImpares\\SomaImpares\\Program.cs",
+              "RelativeDocumentMoniker": "SomaImpares\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\VisualStudio\\ws-vs2022\\SomaImpares\\SomaImpares\\Program.cs",
+              "RelativeToolTip": "SomaImpares\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:51:27.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

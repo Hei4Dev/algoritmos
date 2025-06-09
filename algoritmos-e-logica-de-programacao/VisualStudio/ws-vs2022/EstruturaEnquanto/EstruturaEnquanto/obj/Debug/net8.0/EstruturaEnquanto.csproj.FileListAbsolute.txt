@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\net8.0\EstruturaEnquanto.exe
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\net8.0\EstruturaEnquanto.deps.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\net8.0\EstruturaEnquanto.runtimeconfig.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\net8.0\EstruturaEnquanto.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\net8.0\EstruturaEnquanto.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\EstruturaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\EstruturaEnquanto.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\EstruturaEnquanto.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\EstruturaEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\EstruturaEnquanto.sourcelink.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\EstruturaEnquanto.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\refint\EstruturaEnquanto.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\EstruturaEnquanto.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\EstruturaEnquanto.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\net8.0\ref\EstruturaEnquanto.dll

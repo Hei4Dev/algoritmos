@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\bin\Debug\net8.0\TesteDebug.exe
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\bin\Debug\net8.0\TesteDebug.deps.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\bin\Debug\net8.0\TesteDebug.runtimeconfig.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\bin\Debug\net8.0\TesteDebug.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\bin\Debug\net8.0\TesteDebug.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\TesteDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\TesteDebug.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\TesteDebug.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\TesteDebug.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\TesteDebug.sourcelink.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\TesteDebug.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\refint\TesteDebug.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\TesteDebug.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\TesteDebug.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteDebug\TesteDebug\obj\Debug\net8.0\ref\TesteDebug.dll

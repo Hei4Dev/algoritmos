@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\VisualStudio\\ws-vs2022\\EstruturaEnquanto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{420BAA65-A163-4831-9730-0895D3381820}|EstruturaEnquanto\\EstruturaEnquanto.csproj|c:\\users\\user\\documents\\estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\visualstudio\\ws-vs2022\\estruturaenquanto\\estruturaenquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420BAA65-A163-4831-9730-0895D3381820}|EstruturaEnquanto\\EstruturaEnquanto.csproj|solutionrelative:estruturaenquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\VisualStudio\\ws-vs2022\\EstruturaEnquanto\\EstruturaEnquanto\\Program.cs",
+              "RelativeDocumentMoniker": "EstruturaEnquanto\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\VisualStudio\\ws-vs2022\\EstruturaEnquanto\\EstruturaEnquanto\\Program.cs",
+              "RelativeToolTip": "EstruturaEnquanto\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:23:48.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

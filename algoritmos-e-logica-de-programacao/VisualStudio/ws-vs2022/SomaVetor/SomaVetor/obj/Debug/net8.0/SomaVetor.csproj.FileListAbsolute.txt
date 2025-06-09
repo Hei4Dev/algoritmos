@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.exe
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.deps.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.runtimeconfig.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.sourcelink.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\refint\SomaVetor.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaVetor\SomaVetor\obj\Debug\net8.0\ref\SomaVetor.dll

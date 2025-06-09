@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1747101288 source:c:\windows\temp\ws-cb\meuprojeto\main.c
+	<stdio.h>
+
+1747263347 source:c:\windows\temp\ws-cb\meuprojeto\programa.c
+	<stdio.h>
+	<string.h>
+
+1747263350 source:c:\windows\temp\ws-cb\meuprojeto\teste1.c
+	<stdio.h>
+
+1747160001 source:c:\windows\temp\ws-cb\meuprojeto\teste_condicional.c
+	<stdio.h>
+
+1747161083 source:c:\windows\temp\ws-cb\meuprojeto\teste_enquanto.c
+	<stdio.h>
+
+1747160028 source:c:\windows\temp\ws-cb\meuprojeto\teste_entrada.c
+	<stdio.h>
+	<string.h>
+
+1747160049 source:c:\windows\temp\ws-cb\meuprojeto\teste_processamento-casting.c
+	<stdio.h>
+
+1747160046 source:c:\windows\temp\ws-cb\meuprojeto\teste_saida.c
+	<stdio.h>
+
+1747161888 source:c:\windows\temp\ws-cb\meuprojeto\teste_para.c
+	<stdio.h>
+
+1747162490 source:c:\windows\temp\ws-cb\meuprojeto\teste_repita-ate.c
+	<stdio.h>
+
+1747261544 source:c:\windows\temp\ws-cb\meuprojeto\teste_vetores.c
+	<stdio.h>
+
+1747263114 source:c:\windows\temp\ws-cb\meuprojeto\teste_matrizes.c
+	<stdio.h>
+

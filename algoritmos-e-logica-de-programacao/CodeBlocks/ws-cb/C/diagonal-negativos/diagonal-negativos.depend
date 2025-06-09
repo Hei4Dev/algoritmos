@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747770992 source:c:\windows\temp\ws-cb\diagonal-negativos\main.c
+	<stdio.h>
+	<stdlib.h>
+

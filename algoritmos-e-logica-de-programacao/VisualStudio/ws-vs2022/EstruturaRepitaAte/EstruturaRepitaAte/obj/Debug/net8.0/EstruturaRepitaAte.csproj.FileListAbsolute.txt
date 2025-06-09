@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\bin\Debug\net8.0\EstruturaRepitaAte.exe
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\bin\Debug\net8.0\EstruturaRepitaAte.deps.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\bin\Debug\net8.0\EstruturaRepitaAte.runtimeconfig.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\bin\Debug\net8.0\EstruturaRepitaAte.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\bin\Debug\net8.0\EstruturaRepitaAte.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\EstruturaRepitaAte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\EstruturaRepitaAte.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\EstruturaRepitaAte.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\EstruturaRepitaAte.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\EstruturaRepitaAte.sourcelink.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\EstruturaRepitaAte.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\refint\EstruturaRepitaAte.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\EstruturaRepitaAte.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\EstruturaRepitaAte.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\EstruturaRepitaAte\EstruturaRepitaAte\obj\Debug\net8.0\ref\EstruturaRepitaAte.dll

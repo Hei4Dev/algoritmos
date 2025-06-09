@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="meuprojeto" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/meuprojeto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c99" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/meuprojeto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c99" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="programa.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_condicional.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_enquanto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_entrada.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_matrizes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_para.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_processamento-casting.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_repita-ate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_saida.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_vetores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\VisualStudio\\ws-vs2022\\TesteDebug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{167343FB-6FC1-4157-992F-D3E7205F35D7}|TesteDebug\\TesteDebug.csproj|c:\\users\\user\\documents\\estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\visualstudio\\ws-vs2022\\testedebug\\testedebug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167343FB-6FC1-4157-992F-D3E7205F35D7}|TesteDebug\\TesteDebug.csproj|solutionrelative:testedebug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\VisualStudio\\ws-vs2022\\TesteDebug\\TesteDebug\\Program.cs",
+              "RelativeDocumentMoniker": "TesteDebug\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Estudos\\algoritmos\\algoritmos-e-logica-de-programacao\\VisualStudio\\ws-vs2022\\TesteDebug\\TesteDebug\\Program.cs",
+              "RelativeToolTip": "TesteDebug\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:27:44.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

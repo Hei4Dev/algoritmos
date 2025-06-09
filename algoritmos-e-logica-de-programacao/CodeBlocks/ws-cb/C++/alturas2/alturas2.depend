@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748204867 source:c:\users\user\documents\estudos\algoritmos\algoritmos-e-logica-de-programacao\codeblocks\ws-cb\alturas2\main.cpp
+	<iostream>
+	<iomanip>
+	<climits>
+

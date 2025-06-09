@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747582687 source:c:\windows\temp\ws-cb\soma-linhas\main.c
+	<stdio.h>
+	<stdlib.h>
+

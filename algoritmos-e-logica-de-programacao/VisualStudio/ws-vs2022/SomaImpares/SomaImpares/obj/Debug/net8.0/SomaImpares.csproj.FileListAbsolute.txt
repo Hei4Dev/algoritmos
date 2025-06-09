@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.exe
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.deps.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.runtimeconfig.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.sourcelink.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\refint\SomaImpares.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\SomaImpares\SomaImpares\obj\Debug\net8.0\ref\SomaImpares.dll

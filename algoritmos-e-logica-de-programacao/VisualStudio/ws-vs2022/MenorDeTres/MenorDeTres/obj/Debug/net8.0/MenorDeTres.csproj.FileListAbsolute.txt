@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.exe
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.deps.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.runtimeconfig.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.sourcelink.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\refint\MenorDeTres.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\MenorDeTres\MenorDeTres\obj\Debug\net8.0\ref\MenorDeTres.dll

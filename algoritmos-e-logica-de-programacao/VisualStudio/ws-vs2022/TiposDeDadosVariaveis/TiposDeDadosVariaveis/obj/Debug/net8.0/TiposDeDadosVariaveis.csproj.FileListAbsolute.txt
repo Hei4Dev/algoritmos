@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\bin\Debug\net8.0\TiposDeDadosVariaveis.exe
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\bin\Debug\net8.0\TiposDeDadosVariaveis.deps.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\bin\Debug\net8.0\TiposDeDadosVariaveis.runtimeconfig.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\bin\Debug\net8.0\TiposDeDadosVariaveis.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\bin\Debug\net8.0\TiposDeDadosVariaveis.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\TiposDeDadosVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\TiposDeDadosVariaveis.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\TiposDeDadosVariaveis.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\TiposDeDadosVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\TiposDeDadosVariaveis.sourcelink.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\TiposDeDadosVariaveis.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\refint\TiposDeDadosVariaveis.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\TiposDeDadosVariaveis.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\TiposDeDadosVariaveis.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TiposDeDadosVariaveis\TiposDeDadosVariaveis\obj\Debug\net8.0\ref\TiposDeDadosVariaveis.dll

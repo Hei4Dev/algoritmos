@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\bin\Debug\net8.0\TesteVetores.exe
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\bin\Debug\net8.0\TesteVetores.deps.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\bin\Debug\net8.0\TesteVetores.runtimeconfig.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\bin\Debug\net8.0\TesteVetores.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\bin\Debug\net8.0\TesteVetores.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\TesteVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\TesteVetores.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\TesteVetores.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\TesteVetores.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\TesteVetores.sourcelink.json
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\TesteVetores.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\refint\TesteVetores.dll
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\TesteVetores.pdb
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\TesteVetores.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\algoritmos\algoritmos-e-logica-de-programacao\VisualStudio\ws-vs2022\TesteVetores\TesteVetores\obj\Debug\net8.0\ref\TesteVetores.dll
